@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+.first-box{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+
+}
+.second-box{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 200px;
+}
+.third-box{
+  background-color: yellow;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 400px;
+  top: 400px;
+}
